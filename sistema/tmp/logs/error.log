@@ -1,0 +1,447 @@
+[28-Aug-2023 01:23:30 America/Costa_Rica] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'restinv' in C:\xampp\htdocs\StockAPP\sistema\clase\conexion.clase.php on line 33
+[28-Aug-2023 01:23:30 America/Costa_Rica] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\StockAPP\sistema\clase\conexion.clase.php on line 35
+[28-Aug-2023 02:10:28 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 02:10:48 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 02:10:55 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 02:11:36 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 02:11:38 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 02:11:41 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 02:11:43 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 02:11:44 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 02:11:46 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 02:11:49 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 02:11:58 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 02:12:11 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:01:07 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:01:10 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:01:12 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:01:16 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:01:20 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:02:47 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:03:20 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:03:47 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:03:58 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:04:06 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:04:45 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:30:48 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:30:59 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:09 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:10 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:14 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:16 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:18 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:19 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:22 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:27 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:27 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:37 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:38 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:44 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:51 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:52 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:32:58 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:33:55 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:36:33 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:36:38 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:36:41 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:54:44 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:55:03 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:55:04 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:55:17 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:55:17 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:56:48 America/Costa_Rica] PHP Warning:  unlink(estatico/img/rio (1).png): No such file or directory in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 110
+[28-Aug-2023 06:56:48 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:56:49 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:56:52 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:56:53 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:56:55 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:57:00 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:57:06 America/Costa_Rica] PHP Warning:  unlink(estatico/img/rio (1).png): No such file or directory in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 110
+[28-Aug-2023 06:57:06 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:57:07 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:57:09 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 06:57:13 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:03:49 America/Costa_Rica] PHP Warning:  unlink(estatico/img/rio (1).png): No such file or directory in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 110
+[28-Aug-2023 07:03:50 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:03:50 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:03:55 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:06:21 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:06:25 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:06:26 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:07:43 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:16:44 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:16:46 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:16:48 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:17:13 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:17:19 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:17:20 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:17:23 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:17:24 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:21:02 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:21:12 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:21:43 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:21:50 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:22:22 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:22:27 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:22:38 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:22:47 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:23:04 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:23:10 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:23:17 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:23:29 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:23:53 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:25:30 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:26:04 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:26:39 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:26:53 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:27:41 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:28:04 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:28:05 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:28:08 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:28:09 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:28:13 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:28:15 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:28:17 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:28:23 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:28:33 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:28:38 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:28:42 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:28:55 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:28:57 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:28:58 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:29:00 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:29:01 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:29:03 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:29:04 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:29:06 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:29:07 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:29:09 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:29:11 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:30:48 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:30:49 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:30:52 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:30:54 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:30:56 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:30:59 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:31:04 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:31:05 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:31:08 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:31:10 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:31:11 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:31:13 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:31:15 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:31:24 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:31:27 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:31:33 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:31:59 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:31:59 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:33:03 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:33:14 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:33:19 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:33:23 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:33:51 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:34:06 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:34:28 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:34:59 America/Costa_Rica] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\StockAPP\sistema\modulo\exportar-resumen.php on line 31
+[28-Aug-2023 07:35:01 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:35:10 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:35:14 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:35:16 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:35:18 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:36:28 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:36:46 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:36:48 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:36:50 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:36:54 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:36:58 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:37:03 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:37:57 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:38:01 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:39:51 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:40:27 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:40:33 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:44:46 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:44:54 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:45:04 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:45:08 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:45:45 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:45:45 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:45:47 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:46:38 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:46:40 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:46:49 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:46:50 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:46:59 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:47:00 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:49:23 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:49:26 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:49:39 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:49:50 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:49:50 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:49:56 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:49:56 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:49:58 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:52:47 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 07:53:16 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:03:30 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:05:25 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:05:33 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:05:51 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:05:56 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:06:01 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:06:19 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:09:38 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:22:36 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:22:39 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:24:43 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:25:21 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:25:35 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:25:55 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:27:49 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:31:38 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:31:39 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:31:54 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:51:51 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:52:00 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:52:02 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:52:15 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:52:19 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:52:25 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:52:28 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:52:30 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:52:33 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:52:38 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:52:40 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:52:52 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:54:33 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:55:07 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:55:11 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:55:15 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:55:17 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:55:19 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:56:22 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:57:11 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:57:16 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 08:57:18 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:01:42 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:01:52 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:01:53 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:01:55 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:01:57 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:01:59 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:07 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:11 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:14 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:16 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:17 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:21 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:29 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:34 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:38 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:42 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:44 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:45 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:47 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:49 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:03:51 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:04:25 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:04:30 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:04:36 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:05:02 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:05:07 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:05:13 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:05:21 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:05:31 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:05:36 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:05:44 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:05:50 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:05:53 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:05:55 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:06:37 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:06:46 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:07:00 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:07:04 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:07:09 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:07:14 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:07:31 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:07:37 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:07:38 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:07:47 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:07:53 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:08:18 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:08:44 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:08:50 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:08:54 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:09:00 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:09:21 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:09:27 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:09:31 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:09:36 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:09:41 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:09:45 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:09:54 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:09:59 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:10:01 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:10:43 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:10:45 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:10:47 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:10:49 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:10:50 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:10:54 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:10:59 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:11:13 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:11:18 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:11:20 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:11:44 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:11:46 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:11:50 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:11:55 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:12:10 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:12:11 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:12:13 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:12:16 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:12:19 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:12:38 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:12:48 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:12:51 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:12:57 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:13:27 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:13:44 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:13:47 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:14:14 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:14:18 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:14:20 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:14:41 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:14:41 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:14:45 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:14:50 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:15:17 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:15:22 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:15:27 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:15:44 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:15:49 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:15:51 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:15:55 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:16:03 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:16:07 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:16:12 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:16:16 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:16:18 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:16:26 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:16:31 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:30:19 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:30:25 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:30:37 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:30:42 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:30:54 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:30:59 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:31:18 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:31:23 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:31:49 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:31:55 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:35:09 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:35:15 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 40
+[28-Aug-2023 09:41:20 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:41:24 America/Costa_Rica] PHP Notice:  Undefined variable: tipo in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:41:24 America/Costa_Rica] PHP Notice:  Undefined variable: fecha in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:41:24 America/Costa_Rica] PHP Notice:  Undefined variable: monto in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:41:24 America/Costa_Rica] PHP Notice:  Undefined variable: hora in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:41:24 America/Costa_Rica] PHP Notice:  Undefined variable: Unix in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:41:24 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:41:29 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:41:37 America/Costa_Rica] PHP Notice:  Undefined variable: tipo in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:41:37 America/Costa_Rica] PHP Notice:  Undefined variable: fecha in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:41:37 America/Costa_Rica] PHP Notice:  Undefined variable: monto in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:41:37 America/Costa_Rica] PHP Notice:  Undefined variable: hora in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:41:37 America/Costa_Rica] PHP Notice:  Undefined variable: Unix in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:41:38 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:41:43 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:42:20 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:42:25 America/Costa_Rica] PHP Notice:  Undefined variable: tipo in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:42:25 America/Costa_Rica] PHP Notice:  Undefined variable: fecha in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:42:25 America/Costa_Rica] PHP Notice:  Undefined variable: monto in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:42:25 America/Costa_Rica] PHP Notice:  Undefined variable: hora in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:42:25 America/Costa_Rica] PHP Notice:  Undefined variable: Unix in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:42:25 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:42:31 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:43:53 America/Costa_Rica] PHP Notice:  Undefined variable: tipo in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:43:53 America/Costa_Rica] PHP Notice:  Undefined variable: fecha in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:43:53 America/Costa_Rica] PHP Notice:  Undefined variable: monto in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:43:53 America/Costa_Rica] PHP Notice:  Undefined variable: hora in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:43:53 America/Costa_Rica] PHP Notice:  Undefined variable: Unix in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:43:54 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:43:59 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:44:22 America/Costa_Rica] PHP Notice:  Undefined variable: tipo in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:44:22 America/Costa_Rica] PHP Notice:  Undefined variable: fecha in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:44:22 America/Costa_Rica] PHP Notice:  Undefined variable: monto in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:44:22 America/Costa_Rica] PHP Notice:  Undefined variable: hora in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:44:22 America/Costa_Rica] PHP Notice:  Undefined variable: Unix in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:44:22 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:44:28 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:46:07 America/Costa_Rica] PHP Notice:  Undefined variable: tipo in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:46:07 America/Costa_Rica] PHP Notice:  Undefined variable: fecha in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:46:07 America/Costa_Rica] PHP Notice:  Undefined variable: monto in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:46:07 America/Costa_Rica] PHP Notice:  Undefined variable: hora in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:46:07 America/Costa_Rica] PHP Notice:  Undefined variable: Unix in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:46:07 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:46:13 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:46:26 America/Costa_Rica] PHP Notice:  Undefined variable: tipo in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:46:26 America/Costa_Rica] PHP Notice:  Undefined variable: fecha in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:46:26 America/Costa_Rica] PHP Notice:  Undefined variable: monto in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:46:26 America/Costa_Rica] PHP Notice:  Undefined variable: hora in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:46:26 America/Costa_Rica] PHP Notice:  Undefined variable: Unix in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:46:26 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:46:32 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:47:07 America/Costa_Rica] PHP Notice:  Undefined variable: tipo in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:47:07 America/Costa_Rica] PHP Notice:  Undefined variable: fecha in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:47:07 America/Costa_Rica] PHP Notice:  Undefined variable: monto in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:47:07 America/Costa_Rica] PHP Notice:  Undefined variable: hora in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:47:07 America/Costa_Rica] PHP Notice:  Undefined variable: Unix in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:47:07 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:47:12 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:47:33 America/Costa_Rica] PHP Notice:  Undefined variable: tipo in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:47:33 America/Costa_Rica] PHP Notice:  Undefined variable: fecha in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:47:33 America/Costa_Rica] PHP Notice:  Undefined variable: monto in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:47:33 America/Costa_Rica] PHP Notice:  Undefined variable: hora in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:47:33 America/Costa_Rica] PHP Notice:  Undefined variable: Unix in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 266
+[28-Aug-2023 09:47:34 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:47:39 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:48:52 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:48:57 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:51:12 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:51:17 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:51:42 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:52:37 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:52:44 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:52:45 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:52:58 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:53:21 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:54:05 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:54:08 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:54:19 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:54:35 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:54:39 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:54:55 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:54:59 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:55:27 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:55:27 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:57:34 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:57:37 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:58:58 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:59:00 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 09:59:05 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 10:05:36 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 11:46:08 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 11:46:12 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 11:47:00 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 11:47:10 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 11:47:13 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 11:47:24 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 11:47:35 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 11:47:40 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 11:47:45 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 11:47:58 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 11:49:27 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 11:49:35 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 11:49:39 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42
+[28-Aug-2023 16:47:43 America/Costa_Rica] PHP Notice:  Use of undefined constant GOOGLEANALYTICS - assumed 'GOOGLEANALYTICS' in C:\xampp\htdocs\StockAPP\sistema\clase\sistema.clase.php on line 42

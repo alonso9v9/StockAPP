@@ -77,7 +77,7 @@ $fechaActual = FechaActual();
 								?>
 								</td>
 								<td><?php echo $ResumenVentaDia['cantidad']; ?></td>
-								<td>$ <?php echo $Vendedor->Formato($ResumenVentaDia['precio']); ?></td>
+								<td>&cent; <?php echo $Vendedor->Formato($ResumenVentaDia['precio']); ?></td>
 							</tr>
 							<?php
 							}

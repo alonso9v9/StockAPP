@@ -80,8 +80,8 @@ $numerosTotal	= MysqliResultQualtiva($numerosTotalSql);
 					endif;
 					?>
 					</td>
-					<td>$ <?php echo $cajatmp['precio']; ?></td>
-					<td>$ <?php echo $cajatmp['totalprecio']; ?></td>
+					<td>&cent; <?php echo $cajatmp['precio']; ?></td>
+					<td>&cent; <?php echo $cajatmp['totalprecio']; ?></td>
 					<td>
 						<button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#EliminarProducto<?php echo $cajatmp['id']; ?>"><i class="fa fa-trash-o"></i></button>
 						<!-- Modal -->
@@ -173,13 +173,13 @@ $numerosTotal	= MysqliResultQualtiva($numerosTotalSql);
 	<div class="panel panel-default">
 	  <div class="panel-heading"><center><strong>Neto a Pagar</strong></center></div>
 	  <div class="panel-body">
-		<h2 class="text-success" align="center">$ <?php echo $Vendedor->Formato($neto['deudatotal']); ?>
+		<h2 class="text-success" align="center">¢ <?php echo $Vendedor->Formato($neto['deudatotal']); ?>
 		<?php
 		$TipoDeCambioActivoSql	= $db->SQL("SELECT TipoCambio FROM `sistema`");
 		$TipoDeCambioActivo		= $TipoDeCambioActivoSql->fetch_assoc();
 		if($TipoDeCambioActivo['TipoCambio'] == 1){
 		?>
-		<br/><small class="text-info" >&cent; <?php echo $Vendedor->FormatoSaldo($neto['deudatotal']*$TipoDeCambio['valor']); ?></small></h2>
+		<br/><small class="text-info" >&dollar; <?php echo $Vendedor->FormatoSaldo($neto['deudatotal']/$TipoDeCambio['valor']); ?></small></h2>
 		<?php
 		}else{
 			// Tipo Cambio deshabilitado

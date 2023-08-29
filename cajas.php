@@ -210,7 +210,7 @@ $fechaActual = FechaActual();
 										<div class="form-group">
 											<label>Monto</label>
 											<div class="input-group">
-												<span class="input-group-addon">$</span>
+												<span class="input-group-addon">&cent;</span>
 												<input type="text" class="form-control" name="monto" required="" onkeypress="return PermitirSoloNumeros(event);"  placeholder="Monto de la operaci&oacute;n" autocomplete="off" required/>
 											</div>
 										</div>
@@ -333,9 +333,9 @@ $fechaActual = FechaActual();
 							$ResumenVentaDiaTarjetaSql = $db->SQL("SELECT SUM(total) AS total FROM `factura` WHERE  tipo='0' AND fecha='{$fechaActual}' AND habilitado='1'");
 							$ResumenVentaDiaTarjeta = $ResumenVentaDiaTarjetaSql->fetch_array();
 							?>
-							Venta Total: $ <?php echo @$Vendedor->FormatoSaldo($ResumenVentaDiaTotal['total']); ?> | &cent; <?php echo @$Vendedor->FormatoSaldo($ResumenVentaDiaTotal['total']*528); ?><br/>
-							Venta Efetivo: $ <?php echo @$Vendedor->FormatoSaldo($ResumenVentaDiaEfectivo['total']); ?> | &cent; <?php echo @$Vendedor->FormatoSaldo($ResumenVentaDiaEfectivo['total']*528); ?><br/>
-							Venta Tarjeta: $ <?php echo @$Vendedor->FormatoSaldo($ResumenVentaDiaTarjeta['total']); ?> | &cent; <?php echo @$Vendedor->FormatoSaldo($ResumenVentaDiaTarjeta['total']*528); ?><br/>
+							Venta Total: &cent; <?php echo @$Vendedor->FormatoSaldo($ResumenVentaDiaTotal['total']); ?> | $ <?php echo @$Vendedor->FormatoSaldo($ResumenVentaDiaTotal['total']*528); ?><br/>
+							Venta Efetivo: &cent; <?php echo @$Vendedor->FormatoSaldo($ResumenVentaDiaEfectivo['total']); ?> | $ <?php echo @$Vendedor->FormatoSaldo($ResumenVentaDiaEfectivo['total']*528); ?><br/>
+							Venta Tarjeta: &cent; <?php echo @$Vendedor->FormatoSaldo($ResumenVentaDiaTarjeta['total']); ?> | $ <?php echo @$Vendedor->FormatoSaldo($ResumenVentaDiaTarjeta['total']*528); ?><br/>
 						</div>
 					</div>
 				</div>

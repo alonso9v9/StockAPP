@@ -99,7 +99,7 @@ $usuario->VerificacionCuenta();
 						<div class="form-group">
 							<label for="inputEmail" class="control-label">Precio Costo</label>
 							<div class="input-group">
-								<span class="input-group-addon"><strong>$</strong></span>
+								<span class="input-group-addon"><strong>&cent;</strong></span>
 								<input type="text" class="form-control" name="PrecioCosto" placeholder="Precio Costo" required >
 							</div>
 						</div>
@@ -108,7 +108,7 @@ $usuario->VerificacionCuenta();
 						<div class="form-group">
 							<label for="inputEmail" class="control-label">Precio Venta</label>
 							<div class="input-group">
-								<span class="input-group-addon"><strong>$</strong></span>
+								<span class="input-group-addon"><strong>&cent;</strong></span>
 								<input type="text" class="form-control" name="PrecioVenta" placeholder="Precio Venta" required >
 							</div>
 						</div>

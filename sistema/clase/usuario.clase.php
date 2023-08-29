@@ -27,6 +27,11 @@ class Usuario extends Conexion {
 			$sha_pass_hash		= sha1(strtoupper($usuarioPost) . ":" . strtoupper($contrasena));
 			$UsuarioExisteSQL	= $this->Conectar()->query("SELECT `usuario` , `contrasena` FROM `usuario` WHERE `usuario`='{$usuarioPost}' AND `contrasena`='{$sha_pass_hash}' AND habilitado='1'");
 			$UsuarioExiste		= $UsuarioExisteSQL->num_rows;
+			print("Usuario");
+			print($UsuarioExiste);
+			print($usuarioPost);
+			print($contrasena);
+			print($sha_pass_hash);
 			if ($UsuarioExiste == 1) {
 				$_SESSION['usuario']	=  isset($_POST['usuarioPost']) ? $_POST['usuarioPost'] : null;
 				header("Location: " . URLBASE . "");

@@ -47,7 +47,7 @@ ini_set('session.cookie_httponly', 1);
 // Utilizar únicamente cookies para la propagación del identificador de sesión.
 ini_set('session.use_only_cookies', 1);
 // Establecer la zona horaria predeterminada UTC.
-date_default_timezone_set(HORARIO);
+date_default_timezone_set('America/Costa_Rica');
 
 // Directorios Importantes NO EDITAR DE AQUI EN ADELANTE
 require_once (SISTEMA.'clase.php');

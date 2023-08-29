@@ -309,7 +309,7 @@ $usuario->ZonaAdministrador();
 					</div>
 					<div class="col-md-4">
 						<div class="well well-sm">
-							<img src="<?php echo ESTATICO ?>img/<?php $sistema->Logo(); ?>" width="330px"></img>
+							<img src="<?php echo ESTATICO ?>img/rio_blue.png" width="330px"></img>
 						</div>
 					</div>
 				</div>

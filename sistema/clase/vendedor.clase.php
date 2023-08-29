@@ -46,11 +46,11 @@ class Vendedor extends Conexion {
 		}
 	}
 
-	public function Formato($valor){
-		return number_format($valor, 1, ',', '.');
+	public function FormatoSaldo($valor){
+		return number_format($valor, 2, ',', '.');
 	}
 
-	public function FormatoSaldo($valor){
+	public function Formato($valor){
 		return number_format($valor, 0, ',', ',');
 	}
 }

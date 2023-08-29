@@ -619,7 +619,7 @@ CREATE TABLE `sistema` (
 
 LOCK TABLES `sistema` WRITE;
 
-INSERT  INTO `sistema`(`id`,`logo`,`TipoCambio`) VALUES (1,'applogo.png',1,'v1.0.5 Estable');
+INSERT  INTO `sistema`(`id`,`logo`,`TipoCambio`,`version`) VALUES (1,'applogo.png',1,'v1.0.5 Estable');
 
 UNLOCK TABLES;
 

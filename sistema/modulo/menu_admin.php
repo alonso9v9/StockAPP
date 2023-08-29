@@ -1,7 +1,7 @@
 <div class="navbar navbar-default navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<div class="navbar-brand">
+			<div class="navbar-brand" style="margin-top: -10px;">
 				<a href="<?php echo URLBASE ?>" class="navbar-brand"><img src="<?php echo ESTATICO ?>img/<?php $sistema->Logo(); ?>" alt="Logo <?php echo TITULO ?>" width="230px"/></a>
 			</div>
 			<button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">

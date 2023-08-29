@@ -1,4 +1,6 @@
 <?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 /**
 * Copyright (C) '2015' QualtivaWebAPP <http://www.qualtivacr.com>
 *
@@ -266,8 +268,19 @@ class Sistema extends Conexion {
 			$monto	= filter_var($_POST['monto'], FILTER_SANITIZE_STRING);
 			$hora	= HoraActual();
 			$Unix	= time();
-			$AperturaCajaQuery	= $this->Conectar()->query("INSERT INTO `cajaregistros` (`monto`, `tipo`, `fecha`, `hora`, `Detalle`, `unix`) VALUES ('{$monto}', '{$tipo}', '{$fecha}', '{$hora}', 'Apertura de Caja', '{$Unix}')");
-			$CajaTotalQuery		= $this->Conectar()->query("INSERT INTO `caja` (`monto`, `fecha`, `hora`, `unix`) VALUES ('{$monto}','{$fecha}', '{$hora}', '{$Unix}')");
+			echo "Tipo: $tipo, Fecha: $fecha, Monto: $monto, Hora: $hora, Unix: $Unix";
+			$AperturaCajaQuery	= $this->Conectar()->query("INSERT INTO `cajaregistros` (`monto`, `tipo`, `fecha`, `hora`, `Detalle`) VALUES ('{$monto}', '{$tipo}', '{$fecha}', '{$hora}', 'Apertura de Caja')");
+			$CajaTotalQuery		= $this->Conectar()->query("INSERT INTO `caja` (`monto`, `fecha`, `hora`) VALUES ('{$monto}','{$fecha}', '{$hora}')");
+			echo "AperturaCajaQuery: " . $AperturaCajaQuery ;
+			echo "CajaTotalQuery: " . $CajaTotalQuery;
+			echo "HoraActual: " . HoraActual();
+			if ($AperturaCajaQuery === false) {
+				echo "AperturaCajaQuery Error: " . $this->Conectar()->error;
+			}
+			
+			if ($CajaTotalQuery === false) {
+				echo "CajaTotalQuery Error: " . $this->Conectar()->error;
+			}
 			if($AperturaCajaQuery && $CajaTotalQuery == true){
 				echo'
 				<div class="alert alert-dismissible alert-success">
@@ -310,7 +323,7 @@ class Sistema extends Conexion {
 			$CierreRealizadosQuery	= $this->Conectar()->query("SELECT COUNT(id) AS CierreRealizados  FROM `cajaregistros` WHERE fecha='{$fecha}' AND tipo='{$tipo}' AND habilitado='1'");
 			$CierreRealizados		= $CierreRealizadosQuery->fetch_array();
 			if($CierreRealizados['CierreRealizados'] <= 0){
-				$CierreCajaQuery	= $this->Conectar()->query("INSERT INTO `cajaregistros` (`monto`, `tipo`, `fecha`, `hora`, `Detalle`, `unix`) VALUES ('{$MontoTotal}', '{$tipo}', '{$fecha}', '{$hora}', 'Cierre de Caja', '{$Unix}')");
+				$CierreCajaQuery	= $this->Conectar()->query("INSERT INTO `cajaregistros` (`monto`, `tipo`, `fecha`, `hora`, `Detalle`) VALUES ('{$MontoTotal}', '{$tipo}', '{$fecha}', '{$hora}', 'Cierre de Caja')");
 				if($CierreCajaQuery == true){
 					echo'
 					<div class="alert alert-dismissible alert-success">

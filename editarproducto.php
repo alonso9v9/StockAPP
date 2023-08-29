@@ -101,7 +101,7 @@ $ProductosClase->URLProductoID();
 						<div class="form-group">
 							<label for="inputEmail" class="control-label">Precio Costo</label>
 							<div class="input-group">
-								<span class="input-group-addon"><strong>$</strong></span>
+								<span class="input-group-addon"><strong>&cent;</strong></span>
 								<input type="text" class="form-control" name="PrecioCosto" value="<?php echo $ProductoID['preciocosto']; ?>" placeholder="Precio Costo" required >
 							</div>
 						</div>
@@ -110,7 +110,7 @@ $ProductosClase->URLProductoID();
 						<div class="form-group">
 							<label for="inputEmail" class="control-label">Precio Venta</label>
 							<div class="input-group">
-								<span class="input-group-addon"><strong>$</strong></span>
+								<span class="input-group-addon"><strong>&cent;</strong></span>
 								<input type="text" class="form-control" name="PrecioVenta" value="<?php echo $ProductoID['precioventa']; ?>" placeholder="Precio Venta" required >
 							</div>
 						</div>
